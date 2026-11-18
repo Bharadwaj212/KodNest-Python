@@ -1,2 +1,6 @@
-print("Hello World")
-print("welcome to python")
+print("Welcome to Python Track.")
+print("My name is Bharadwaj.")
+print("I am Btech student.")
+print("I already know how to build programming logic.")
+print("Now I am learning how to express that logic using Python.")
+print("I selected Python becauseit has easy syntax.")

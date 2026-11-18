@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+Elluru Bharadwaj
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I learned how to build logics.
+I learned how to write pseuodocodes.
+In foundation month i recalled the basics of python.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected Python because it has easy syntax, and there are wide range of opportunities if we become python developer.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+My main Goal is to get a job in development field, and lead a happy life.
 
 ## What I Understood Today
 
-Complete these sentences:
+Programming means thinking used to solve a problem.
 
-Programming means:
+Python is a language to communicate the solution to computer.
 
-Python is:
-
-In this track, I will learn:
+Now i will learn how to communicate with computer using the Python programming language.
