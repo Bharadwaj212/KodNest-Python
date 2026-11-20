@@ -2,7 +2,7 @@
 
 ## What is Programming?
 
-Programming is thinking of the logic in the form of pseudocodes, and undertsnding the logic.
+Programming is thinking of the logic in the form of pseudocodes, and understanding the logic.
 
 ## What is Programming Language?
 
@@ -18,16 +18,16 @@ Syntax means writing rules of a Programming language.
 
 ## Programming and Python
 
-Programming is the first part we have to see when any problem statement is given thet is we have to understand the programming steps and logic of the problem statement.
+Programming is the first part we have to see when any problem statement is given that is we have to understand the programming steps and logic of the problem statement.Python is a programming language that communicates with the computer hardware to do the task we want.
 
 ## What remained the same
 
-In Pseudocode we write the program in the noraml english and understand the logic of the problem statement.
-In Python we write the actual program according the syntax but the logic and steps are same for the pseudocose and Python.
+In Pseudocode we write the program in the normal english and understand the logic of the problem statement.
+In Python we write the actual program according the syntax but the logic and steps are same for the pseudocode and Python.
 
 ## What Changed
 
-Just the way of representing and writing of th program is changed , we just add the Syntax to the pseudocode to make it a python program.
+Just the way of representing and writing of the programming logic is changed , we just add the Syntax to the pseudocode to make it a python program.
 
 ## My Final Understanding
 
